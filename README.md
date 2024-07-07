@@ -33,7 +33,7 @@ This project contains Verilog code for a vending machine that simulates the func
 
 To display an image of the vending machine, first upload the image to your repository. Then, replace the link below with the path to your image:
 
-![Vending Machine](C:\Users\adibianstore\OneDrive\Desktop\Vending_machine-lcd\vending machine.jpg)
+![Vending Machine](Yaghoob_Barghi.jpg)
 
 ## Contribution
 
